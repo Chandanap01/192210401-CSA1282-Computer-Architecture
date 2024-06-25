@@ -32,5 +32,3 @@ max=cpu[i];
 printf("The processor has lowest Execution time is: %f ", max);
 return 0;
 }
-
-👆 Qno.35 CPU performance
